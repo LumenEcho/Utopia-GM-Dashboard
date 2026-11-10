@@ -1,1 +1,1 @@
-# Utopia-GM-Dashboard
+Due to how file system stuff will be managed, this app is only compatible with chromium based browsers
